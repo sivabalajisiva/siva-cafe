@@ -1,0 +1,21 @@
+.sfood{
+    color:  crimson;
+}
+.nav1{
+justify-content: center;
+
+}
+.nav1 a{
+    text-decoration: none;
+    padding: 5px 15px;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+    
+}
+.nav1 a.active{
+ color: crimson;
+}
+.nav1 a:hover{
+    color: crimson;
+}
